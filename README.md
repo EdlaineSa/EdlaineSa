@@ -6,9 +6,10 @@ a brazilian Data Engineer 💻 and Production Engineer ⚙
 - 👩🏻‍💻 Other social networks on the links below.
 
 ##
-<div align="center">
-  <a href="https://github.com/EdlaineSa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdlaineSa&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdlaineSa&layout=compact&langs_count=7&theme=onedark"/>
+<div>
+<a href="https://github.com/EdlaineSa">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdlaineSa&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdlaineSa&amp;layout=compact&amp;langs_count=7&amp;theme=aura_dark"/>
 </div>
 	
 ##
