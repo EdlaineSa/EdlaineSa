@@ -33,4 +33,4 @@ Data Engineer 💻 and Production Engineer ⚙
 <div> 
 	
 	
-  ![Snake animation](https://github.com/EdlaineSa/EdlaineSa/blob/output/github-contribution-grid-snake.svg)
+  (https://github.com/EdlaineSa/EdlaineSa/blob/output/github-contribution-grid-snake.svg)
