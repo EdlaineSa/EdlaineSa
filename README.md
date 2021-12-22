@@ -8,8 +8,8 @@ Data Engineer 💻 and Production Engineer ⚙
 ##
 <div>
 <a href="https://github.com/EdlaineSa">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdlaineSa&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-<img height="250em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdlaineSa&amp;layout=compact&amp;langs_count=7&amp;theme=aura_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdlaineSa&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+<img height="250em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdlaineSa&amp;layout=compact&amp;langs_count=7&amp;theme=panda"/>
 </div>
 	
 ##
