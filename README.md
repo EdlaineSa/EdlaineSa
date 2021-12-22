@@ -30,7 +30,11 @@ Data Engineer 💻 and Production Engineer ⚙
 	<a href="https://www.linkedin.com/in/edlaine-sa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 	<a href="https://www.twitch.tv/edlaine_sa" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 	<a href="https://www.qwiklabs.com/public_profiles/28125d81-eb08-471a-94e8-e252e0bcf036" target="_blank"><img height="28em" width="100em" src="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Qwiklabs_joins_Google_Cloud.jpg" target="_blank"></a>
-<div> 
+
+
+	
+![Snake animation](https://github.com/EdlaineSa/EdlaineSa/blob/output/github-contribution-grid-snake.svg)
+	
+</div> 
 	
 	
-  (https://github.com/EdlaineSa/EdlaineSa/blob/output/github-contribution-grid-snake.svg)
