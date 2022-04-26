@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Edlaine Sá
 
-Data Engineer 💻 and Production Engineer ⚙
+Data Engineer 💻
 - 🌱 I’m currently learning and developing my skills in data engineering and cloud computing.
 - 📫 How to reach me: c.edlainesa@gmail.com.
 - 👩🏻‍💻 Other social networks on the links below.
@@ -20,8 +20,7 @@ Data Engineer 💻 and Production Engineer ⚙
 	<img align="center" alt="EdlaineSa-MySQL" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 	<img align="center" alt="EdlaineSa-MongoDB" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
 	<img align="center" alt="EdlaineSa-Spark" height="140" width="140" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg">
-	<img align="right" alt="EdlaineSa-Gif" height="125" width="125"src="https://i.picasion.com/pic91/98a06ab31bc471a4ab95b3d57bdddfb6.gif">
-</div>
+	<img align="center" alt="EdlaineSa-PostgreSQL" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg">
 
 ##
 <div> 
