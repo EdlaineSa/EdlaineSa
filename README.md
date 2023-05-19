@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Edlaine Sá
 
 Data Engineer 💻
-- 🌱 I’m currently learning and developing my skills in data engineering and cloud computing.
 - 📫 How to reach me: c.edlainesa@gmail.com.
 - 👩🏻‍💻 Other social networks on the links below.
 
